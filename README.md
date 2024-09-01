@@ -8,17 +8,20 @@
     Efficiency behind Google’s DeepMind Algorithm: "AlphaTensor" for neural networks: AI research for discovering the fastest matrix multiplication with Reinforcement Machine Learning
   </h2>
 
- 	<br />
-    <a href="https://www.amazon.com/dp/B0DF5NV2XQ"><strong>Explore Now »</strong></a>
-    <br />
 </div>
 
 
+<br />
+
+ <a href="https://www.amazon.com/dp/B0DF5NV2XQ"><strong>Explore Now »</strong></a>
+
+
+## ---------------
+
+![alt text](https://m.media-amazon.com/images/I/61N0fQL-HoL._SY522_.jpg)
 
 <!-- ABOUT -->
 ## About
-
-[![Product Name Screen Shot][product-screenshot]](https://m.media-amazon.com/images/I/61N0fQL-HoL._SY522_.jpg)
 
 
 <br />
@@ -37,5 +40,8 @@ Willing to know more about mathematics behind Deep Neural Networks, Achievements
 
 <br />
 <a href="https://www.amazon.com/dp/B0DF5NV2XQ"><strong>Get Your Copy Now »</strong></a>
+
+<br />
+
 <a href="https://www.amazon.com/dp/B0DF5NV2XQ">https://www.amazon.com/Efficiency-behind-Googles-DeepMind-Algorithm/dp/B0DF5NV2XQ</a>
 <br />
